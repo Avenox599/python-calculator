@@ -1,5 +1,5 @@
 # Vérification de l'indentité
-
+print("Salut les Noods")
 import math
 print("\n---------- OMNIBYTE ----------")
 print("Bonjour.")
