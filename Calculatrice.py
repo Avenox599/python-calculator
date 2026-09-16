@@ -1,7 +1,7 @@
 # Vérification de l'indentité
 
 import math
-print("\n---------- OMNIBYTE ----------")
+print("\n---------- Axion Tech ----------")
 print("Bonjour.")
 while True:
     user_name = input("Entrez votre nom : ")
